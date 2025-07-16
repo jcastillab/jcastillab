@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Juan Castilla</h1>
-<h3 align="center">Ciencia de datos • Visualización • Modelos desde cero</h3>
+<h3 align="center">Ciencia de datos • Visualización • Modelado • Automatizacion</h3>
 
 <p align="center">
   🚀 Apasionado por transformar datos en decisiones inteligentes<br>
@@ -14,7 +14,7 @@
 Aquí encontrarás una colección de trabajos en los que exploro, analizo, visualizo y modelo datos reales y simulados.  
 Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cero para entender a fondo cómo funcionan.
 
-> 💬 *"No solo quiero aplicar modelos, quiero entenderlos, visualizarlos y enseñar con ellos."*
+> 💬 *"No solo quiero aplicar modelos, quiero entenderlos, visualizarlos y contar historias."*
 
 ---
 
@@ -22,8 +22,8 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 📈 [Regresión Lineal vs SGD](https://github.com/jcastillab/learning-ml-from-scratch) | Comparación visual y técnica entre descenso de gradiente clásico y estocástico desde cero. | `Python`, `NumPy`, `Matplotlib` |
-| 🏡 [Análisis de datos de Airbnb](https://github.com/jcastillab/airbnb-eda-project) | Exploración visual de patrones en precios y ubicación de alojamientos en múltiples ciudades. | `Python`, `Pandas`, `Seaborn` |
+| 📈 [Analisis trabajos AI]([https://github.com/jcastillab/learning-ml-from-scratch](https://github.com/jcastillab/AI-job)) | Dashboard analizando ofertas laborales en IA en base a seniority, experiencia, industrias | `Power BI`, 
+| 🏡 [Simulador Credito](https://github.com/jcastillab/Simulador_prestamo) | Desarrollo de una app dinamica para evaluar diferentes situaciones de creditos de manera detallada| `R`, `Shiny`, `Git`|
 | 🚲 [Dashboard de ventas - Bike Store](https://github.com/jcastillab/bike-store-dashboard) | Reporte visual interactivo de ventas y clientes para una tienda ficticia. | `Power BI`, `SQL`, `DAX` |
 
 ---
@@ -31,7 +31,8 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
 ## ⚒️ Herramientas que uso frecuentemente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,pandas,numpy,sklearn,matplotlib,powerbi,vscode,github,linux" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,vscode,git," alt="Stack" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" />
 </p>
 
 ---
@@ -39,7 +40,7 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
 ## 📬 ¿Hablamos?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- 📧 jcastillab@correo.com *(ajústalo con tu email real)*
+- 📧 jcastillab17@gmail.com 
 
 ---
 
@@ -48,17 +49,3 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
   ¡Te invito a explorar mis repositorios y seguirme para ver nuevos proyectos!
 </p>
 
-<!--
-**jcastillab/jcastillab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
