@@ -24,7 +24,7 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
 |---------|-------------|-------------|
 | 📈 [Analisis trabajos AI](https://github.com/jcastillab/AI-job) | Dashboard analizando ofertas laborales en IA en base a seniority, experiencia, industrias | `Power BI`, 
 | 🏡 [Simulador Credito](https://github.com/jcastillab/Simulador_prestamo) | Desarrollo de una app dinamica para evaluar diferentes situaciones de creditos de manera detallada| `R`, `Shiny`, `Git`|
-| 🚲 [Dashboard de ventas - Bike Store](https://github.com/jcastillab/bike-store-dashboard) | Reporte visual interactivo de ventas y clientes para una tienda ficticia. | `Power BI`, `SQL`, `DAX` |
+| 🚲 [Dashboard de ventas - Bike Store](https://github.com/jcastillab/Bike-Store) | Reporte visual interactivo de ventas y clientes para una tienda ficticia. | `Power BI`, `SQL`, `DAX` |
 
 ---
 
