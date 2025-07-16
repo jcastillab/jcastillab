@@ -39,7 +39,7 @@ Desarrollo desde análisis exploratorios y dashboards hasta algoritmos desde cer
 
 ## 📬 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jcastillab)
 - 📧 jcastillab17@gmail.com 
 
 ---
